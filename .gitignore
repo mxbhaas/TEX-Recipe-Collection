@@ -10,4 +10,6 @@
 *.fot
 *.cb
 *.cb2
-.*.lb
+*.lb
+*.bbl
+*.dvi
