@@ -14,3 +14,7 @@
 *.bbl
 *.dvi
 *.gz
+*.idx
+*.ilg
+*.ind
+*.fdb_latexmk
