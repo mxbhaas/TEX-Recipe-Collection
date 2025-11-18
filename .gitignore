@@ -18,3 +18,4 @@
 *.ilg
 *.ind
 *.fdb_latexmk
+*.synctex(busy)
