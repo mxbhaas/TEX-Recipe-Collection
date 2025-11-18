@@ -9,16 +9,6 @@ This repository contains a private LaTeX cookbook: a curated collection of home-
 - A mixture of cuisines and styles reflecting a varied home kitchen.
 - Typeset with LaTeX for consistent layout, printable PDFs, and easy export.
 
-## Repository structure (typical)
-- `main.tex` — document root and compilation entrypoint.
-- `chapters/` — chapter files (by cuisine, course, or category).
-- `recipes/` — per-recipe source files or macros.
-- `images/` — photos, diagrams, and scanned notes.
-- `styles/` — custom LaTeX class, packages, and templates.
-- `assets/` — icons, ingredient lists, conversion tables.
-
-Adjust paths to match the actual project layout.
-
 ## Conventions
 - Use metric measurements as primary (kilograms, grams, liter, mililiter etc.). Include metric conversions in parentheses if desired.
 - Each recipe should include: title, ingredients list, step-by-step directions, notes/tips.
