@@ -32,10 +32,10 @@ If using images, ensure they are in supported formats (PDF, PNG, JPG) and refere
 - Respect copyright of sourced recipes and reproduce only as allowed.
 
 ## Acknowledgements
-- Thanks to family, friends, cookbooks, blogs, and video creators whose recipes inspired these entries. Source lines will be added in the future where known for proper attribution.
+Thanks to family, friends, cookbooks, blogs, and video creators whose recipes inspired these entries. Source lines will be added in the future where known for proper attribution.
 
 ## Suggestions & maintenance
-- Keep formatting consistent to support automated indexing and PDF generation.
+Keep formatting consistent to support automated indexing and PDF generation.
 
 ## Release Notes
 ### V1.0
