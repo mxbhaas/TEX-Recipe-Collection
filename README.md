@@ -1,6 +1,6 @@
 # TEX Recipe Collection — README
 
-This repository contains a private LaTeX cookbook: a curated collection of home-tested recipes assembled over years of cooking. It is intended for personal use and archival presentation in a printable, searchable LaTeX format.
+This repository contains a private LaTeX cookbook: a curated collection of home-tested recipes assembled over years of cooking. It is intended for personal use and archival presentation in a printable, searchable LaTeX format. This collection is meant to me as clean and simple as possible, often a mere list of ingredients required for the respective recipe. This is not a cookbook for beginners, but rather a collection of various recipes compiled over the years, with brief instructions based on existing techniques and knowledge, and the necessary ingredients and quantities.
 
 ## Highlights
 - Private recipe collection curated from years of home cooking.
@@ -25,14 +25,12 @@ Recommended toolchain:
 Clean auxiliary files:
 - `latexmk -CA`
 
-If using images, ensure they are in supported formats (PDF, PNG, JPG) and referenced from `images/`.
-
 ## Notes on privacy and distribution
 - This repository is intended for private use and contains personal attributions and notes. Do not publish or redistribute without explicit permission from original sources when applicable.
 - Respect copyright of sourced recipes and reproduce only as allowed.
 
 ## Acknowledgements
-Thanks to family, friends, cookbooks, blogs, and video creators whose recipes inspired these entries. Source lines will be added in the future where known for proper attribution.
+Thanks to family, friends, cookbooks, blogs, and video creators whose recipes inspired these entries. Source lines are currently be added, if there is anything missing, please let me know.
 
 ## Suggestions & maintenance
 Keep formatting consistent to support automated indexing and PDF generation.
@@ -42,5 +40,5 @@ Keep formatting consistent to support automated indexing and PDF generation.
 - Created files, setup .tex and .pdf files, added initial recipes, set type convention, create README and set up  version control with git
 
 ### V1.1 (currently in progress)
-- Add sources to each recipe where it was acquired
+- Add sources to each recipe where it was discovered
 - Complete more recipes from 2025
