@@ -1,5 +1,4 @@
 # TEX Recipe Collection — README
-
 This repository contains a private LaTeX cookbook: a curated collection of home-tested recipes assembled over years of cooking. It is intended for personal use and archival presentation in a printable, searchable LaTeX format. This collection is meant to me as clean and simple as possible, often a mere list of ingredients required for the respective recipe. This is not a cookbook for beginners, but rather a collection of various recipes compiled over the years, with brief instructions based on existing techniques and knowledge, and the necessary ingredients and quantities.
 
 ## Highlights
@@ -30,7 +29,7 @@ Clean auxiliary files:
 - Respect copyright of sourced recipes and reproduce only as allowed.
 
 ## Acknowledgements
-Thanks to family, friends, cookbooks, blogs, and video creators whose recipes inspired these entries. Source lines are currently be added, if there is anything missing, please let me know.
+Thanks to family, friends, cookbooks, blogs, and video creators whose recipes inspired these entries. Source lines are currently be added, if there is anything missing, kindly let me know.
 
 ## Suggestions & maintenance
 Keep formatting consistent to support automated indexing and PDF generation.
